@@ -4,8 +4,8 @@
 
 ### Clone the Repository:
 
-git clone https://github.com/your-username/react-native-assignment.git
-cd react-native-assignment
+git clone https://github.com/Tapu-Parida2004/listing-app.git
+cd listing-app
 
 ## Install Dependencies:
 
