@@ -4,8 +4,8 @@
 
 ### Clone the Repository:
 
-git clone https://github.com/Tapu-Parida2004/listing-app.git
-cd listing-app
+**git clone https://github.com/Tapu-Parida2004/listing-app.git**
+**cd listing-app**
 
 ## Install Dependencies:
 
